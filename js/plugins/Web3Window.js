@@ -32,7 +32,7 @@
         }
     };
 
-    const API_URL = "https://dragonsdenapi.beelzeware.dev/graphql/";
+    const GRAPHQL_ENDPOINT = "https://dragonsdenapi.beelzeware.dev/graphql/";
 
     const VAR_WALLET = 1;
     const VAR_CHAIN_ID = 2;
